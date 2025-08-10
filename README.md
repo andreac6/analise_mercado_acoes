@@ -1,5 +1,6 @@
 # analise_mercado_acoes
 Uma breve análise de dados de operações no mercado financeiro.
+
 Olá! Fiz todos os processos, neles incluídos:
 
 Normalize os dados da coluna “preco” na página “mercado_acoes”
