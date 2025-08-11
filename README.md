@@ -20,7 +20,7 @@ Faça a previsão da quantidade de operações do mês 12, considerando o interv
 
 e acrescentei mais alguns dados como por exemplo: a quantidade de operações por mês de cada ação, e a que menos foi movimentada, a que ficou na média das movimentações e a que mais foi movimentada. Acrescentei a quantidade de operações feita por cada ação ao longo dos meses. Acrescentei também na aba "estatística" uma tabelinha onde é possível pesquisar pelo código do cliente e irá ser entregue ao utilizador quanto foi comprado em reais e quanto foi vendido em reais, e-mail, nome, quantia de venda e quantia de compra.
 
-Atualização 11/08/2025
+ ATUALIZAÇÃO 11/08/2025
 
 Adicionei os seguintes campos: 
 "Compra_Venda"
