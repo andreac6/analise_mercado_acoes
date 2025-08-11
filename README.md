@@ -19,3 +19,13 @@ Faça a previsão da quantidade de operações do mês 12, considerando o interv
 
 
 e acrescentei mais alguns dados como por exemplo: a quantidade de operações por mês de cada ação, e a que menos foi movimentada, a que ficou na média das movimentações e a que mais foi movimentada. Acrescentei a quantidade de operações feita por cada ação ao longo dos meses. Acrescentei também na aba "estatística" uma tabelinha onde é possível pesquisar pelo código do cliente e irá ser entregue ao utilizador quanto foi comprado em reais e quanto foi vendido em reais, e-mail, nome, quantia de venda e quantia de compra.
+
+Atualização 11/08/2025
+
+Adicionei os seguintes campos: 
+"Compra_Venda"
+Onde é possível visualizar com facilidade cada Stiker e a sua quantia tanto em valor quanto em transações em uma tabela dinâmica.;
+"Cliente_compra_venda" 
+Onde é possível visualizar transações de cada Stiker, por data (dd/mm/aaaa) sejam elas de compra ou venda separados por cliente, e também é possível utilizar o filtro para melhor visualização
+ "Cliente_Lucro_Prejuízo"
+Na aba cliente lucro prejuízo podemos averiguar com mais facilidade na tabela dinâmica quais clientes tiveram lucro ou prejuízo com as transações ao longo do ano de 2023.
