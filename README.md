@@ -29,3 +29,16 @@ Onde é possível visualizar com facilidade cada Stiker e a sua quantia tanto em
 Onde é possível visualizar transações de cada Stiker, por data (dd/mm/aaaa) sejam elas de compra ou venda separados por cliente, e também é possível utilizar o filtro para melhor visualização
  "Cliente_Lucro_Prejuízo"
 Na aba cliente lucro prejuízo podemos averiguar com mais facilidade na tabela dinâmica quais clientes tiveram lucro ou prejuízo com as transações ao longo do ano de 2023.
+
+
+ATUALIZAÇÃO 14/08/2025
+Realizei a implementação de gráficos para melhorar a visualização de determinadas informações.
+Utilizando da variedade do leque que tenho a disposição, não repetindo e assim criando mais conhecimento prático para analisar os dados e melhorando a capacidade de escolha de gráfico para cada ocasião.
+Segue a relação de planilhas x gráficos utilizados:
+Dados da página estatística - Gráfico de áreas
+Dados da página tendencia_temporal - Gráfico de Colunas
+Dados da página compra_venda - Gráfico de Dispersão
+Dados da página cliente_compra_venda - Gráfico de Tabela
+Dados da página cliente_lucro_prejuizo - Gráfico de Barra
+Dados da página mercado_acoes - Gráfico de Pizza
+
