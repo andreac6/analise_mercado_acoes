@@ -32,6 +32,8 @@ Na aba cliente lucro prejuízo podemos averiguar com mais facilidade na tabela d
 
 
 ATUALIZAÇÃO 14/08/2025
+
+
 Realizei a implementação de gráficos para melhorar a visualização de determinadas informações.
 Utilizando da variedade do leque que tenho a disposição, não repetindo e assim criando mais conhecimento prático para analisar os dados e melhorando a capacidade de escolha de gráfico para cada ocasião.
 Segue a relação de planilhas x gráficos utilizados:
